@@ -8,7 +8,8 @@ a:focus, a:hover{color:#ebebeb;}
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {width: 100%;}
 @media (max-width: 991px) {
-.navbar-header{height:100px;}}
+.navbar-header{height:100px;}
+.navbar-nav{margin-top: 0px;}}
 .navbar-toggle{float:left;}
 .headline{text-align:center;}
 .headline h2{
@@ -23,6 +24,7 @@ a:focus, a:hover{color:#ebebeb;}
 	padding-right: 0px;
 	width: 250px;
 }
+.kotak p{color:#929c9b;}
 @media (max-width: 991px) {
 .kotak{width:100%;}}
 .icon{
@@ -31,6 +33,7 @@ a:focus, a:hover{color:#ebebeb;}
 	padding: 10px;
 }
 .desc{padding: 20px;}
+.desc h4{color:#000;}
 .fa{padding-left: 30px;}
 .footer{
 	background-color:#434446;
