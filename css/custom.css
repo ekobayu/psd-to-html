@@ -1,3 +1,4 @@
+body{background-color:#f3f3f3;}
 .navbar-nav{
   margin-top: 40px;
   background-color: #434446;
@@ -5,6 +6,12 @@
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  width: 70%;
-  margin: auto;
+  width: 100%;
+}
+
+.headline{
+text-align:center;
+}
+.headline h2{
+color:#7e8c8c;
 }
