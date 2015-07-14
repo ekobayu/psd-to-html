@@ -1,4 +1,12 @@
 body{background-color:#f3f3f3;font-family: 'Raleway', sans-serif;}
+
+a{
+color:#fff;
+}
+
+a:focus, a:hover{
+color:#ebebeb;
+}
 .navbar-nav{
   margin-top: 40px;
   background-color: #434446;
@@ -40,7 +48,10 @@ background-color: #fff;
 .desc{
   padding: 20px;
   }
-  
+
+.fa{
+padding-left: 30px;
+}
 .footer{
 background-color:#434446;
 color:#fff;
