@@ -11,6 +11,7 @@ a:focus, a:hover{color:#ebebeb;}
 .navbar-header{height:100px;}
 .navbar-nav{margin-top: 0px;}}
 .navbar-toggle{float:left;}
+.navbar-brand{float:none;}
 .headline{text-align:center;}
 .headline h2{
 	color:#7e8c8c;
