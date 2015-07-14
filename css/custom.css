@@ -1,4 +1,4 @@
-body{background-color:#f3f3f3;}
+body{background-color:#f3f3f3;font-family: 'Raleway', sans-serif;}
 .navbar-nav{
   margin-top: 40px;
   background-color: #434446;
@@ -12,16 +12,27 @@ body{background-color:#f3f3f3;}
 .headline{
 text-align:center;
 }
+
 .headline h2{
 color:#7e8c8c;
 }
 
 .kotak{
 background-color: #fff;
-
+  border-radius: 10px;
+  margin: 15px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 250px;
+}
+@media (min-width: 768px) {
+.kotak{
+	width:100%;
 }
 
+}
 .icon{
-  border-top: 1px solid;
-  border-bottom: 1px solid;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 10px;
  }
