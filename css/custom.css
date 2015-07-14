@@ -1,5 +1,10 @@
 .navbar-nav{
   margin-top: 40px;
   background-color: #434446;
+}
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
 }
