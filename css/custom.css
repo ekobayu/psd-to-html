@@ -1,12 +1,8 @@
 body{background-color:#f3f3f3;font-family: 'Raleway', sans-serif;}
 
-a{
-color:#fff;
-}
+a{color:#fff;}
 
-a:focus, a:hover{
-color:#ebebeb;
-}
+a:focus, a:hover{color:#ebebeb;}
 .navbar-nav{
   margin-top: 40px;
   background-color: #434446;
@@ -23,6 +19,7 @@ text-align:center;
 
 .headline h2{
 color:#7e8c8c;
+font-weight:700;
 }
 
 .kotak{
